@@ -37,7 +37,7 @@ Identify the 5 most popular items by purchase count, then list (in a table):
 ### Most Profitable Items
 Identify the 5 most profitable items by total purchase value, then list (in a table):
 
-**Observations:**
+# Observations:
 After reviewing all the data following observation can be made:
 
 1. There are a total number of 576 players in game out of which around 84% are male who are purchasing the items.
