@@ -1,4 +1,4 @@
-# Python Pandas - Video Game Analysis
+# Python Pandas - Video Game Data Analysis
 
 ## Heroes of Pymoli
 
