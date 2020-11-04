@@ -1,40 +1,40 @@
-# Pandas-Challenge
+# Python Pandas - Video Game Analysis
 
-## Option 1: Heroes of Pymoli
+## Heroes of Pymoli
 
-In this challenge we are working as Lead Analyst for an independent gaming company. We been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+In this challenge, I am working as Lead Analyst for an independent gaming company. I have been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
-As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+As a first task, the company wanted to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-We were asked to create multiple dataframes which asked us to find the following:
+I was tasked to create multiple dataframes, to discover solutions to the following questions:
 
-### Player Count
+#### Player Count
 * Total Number of Players
 
-### Purchasing Analysis (Total)
+#### Purchasing Analysis (Total)
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
 * Total Revenue
 
-### Gender Demographics
+#### Gender Demographics
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
 
-### Purchasing Analysis (Gender)
+#### Purchasing Analysis (Gender)
 The below each broken by gender
 
-### Age Demographics
+#### Age Demographics
 The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
 
-### Top Spenders
+#### Top Spenders
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
 
-### Most Popular Items
+#### Most Popular Items
 Identify the 5 most popular items by purchase count, then list (in a table):
 
-### Most Profitable Items
+#### Most Profitable Items
 Identify the 5 most profitable items by total purchase value, then list (in a table):
 
 # Observations:
