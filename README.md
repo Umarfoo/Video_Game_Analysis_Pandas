@@ -2,7 +2,7 @@
 
 ## Heroes of Pymoli
 
-In this challenge, I am working as Lead Analyst for an independent gaming company. I have been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+In this project, I had been assigned the task of analyzing a gaming companies data for their most recent fantasy game Heroes of Pymoli.
 
 As a first task, the company wanted to generate a report that breaks down the game's purchasing data into meaningful insights.
 
